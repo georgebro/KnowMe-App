@@ -24,7 +24,7 @@
                         <Font size="15.0" />
                     </font>
                 </PasswordField>
-                <Button fx:id="sugnUpLogInButton" layoutX="280.0" layoutY="213.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="141.0" style="-fx-background-color: #2E3348;" text="Sign Up" textFill="WHITE">
+                <Button fx:id="signUpLogInButton" layoutX="280.0" layoutY="213.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="141.0" style="-fx-background-color: #2E3348;" text="Sign Up" textFill="WHITE">
                     <font>
                         <Font name="System Bold" size="15.0" />
                     </font>
