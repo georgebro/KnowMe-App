@@ -1,4 +1,4 @@
-# LogIn-Activity-App
+# LogIn Activity Application
 # JavaFX
 # JDBC
 # MySQL 
