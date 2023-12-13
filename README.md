@@ -1,7 +1,7 @@
-# LogIn Activity Application.
-# JavaFX.
-# JDBC.
-# MySQL.
+# LogIn Activity Application
+# JavaFX
+# JDBC
+# MySQL
 
 JavaFX applications with a graphical interface and full functionality
 also with a special graphical editor Scene Builder and a database connection MySQL
